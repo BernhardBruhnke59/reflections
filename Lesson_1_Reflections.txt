@@ -1,0 +1,36 @@
+Git and Github Lesson notes:
+
+How did viewing a diff between two versions help you spot a bug? (diff -u)
+	It was very helpful because the command allowed the computer to scan the code faster and help us only find the major differences between the two files. This way, instead of piling through thousands of lines of code at a time, I was able to take a few minutes and find the bug in just a few lines of code. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having easy access will be beneficial for time management and project management given the degree of work and timeliness of a project. Plus it will be beneficial to have all of my work in an easy-access area. 
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   Having it manually saved is the better option due to the operator knowing when is the best time to commit at a given stage in the coding. If it is automatically saved, the automatic saving will not know what stage of development has taken place, or know the difference between working an non-working code. Thus the operator should manually complete all commits based on low levels of completion, debuggin, etc. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    With this kind of work, you will have so many different files that will intermesh to make a proper site, app, etc. It would be counterproductive to have it where each piece of coding style have to be saved separately. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    If I have some sort of issue with my code, I can use git log to see my history of commits and what exactly I commited while I was doing it. I can also use git diff to compare the two selected commit settings to help debug a problem or find an error that needs to be fixed. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I think it would make me more confident about making changes because I will always have a way of going back to reflect/correct any possible error in code or accidental mistake/deletion made while correcting/altering code. 
+    
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
